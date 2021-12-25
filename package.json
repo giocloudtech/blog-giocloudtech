@@ -1,0 +1,28 @@
+{
+  "name": "blog-giocloudtech",
+  "version": "1.0.0",
+  "description": "Esse será a primeira versão do blog Gio Cloud Tech.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giocloudtech/blog-giocloudtech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giocloudtech/blog-giocloudtech/issues"
+  },
+  "homepage": "https://github.com/giocloudtech/blog-giocloudtech#readme",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.7"
+  }
+}
